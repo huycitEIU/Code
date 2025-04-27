@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Tìm số đèn sáng trong khoảng từ left đến right
 public class LightCount
 {
     public static void main(String[] args)
