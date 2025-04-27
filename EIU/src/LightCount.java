@@ -1,5 +1,6 @@
 import java.util.Scanner;
 // Tìm số đèn sáng trong khoảng từ left đến right
+// Đèn sáng là đèn có số thứ tự là số chính phương
 public class LightCount
 {
     public static void main(String[] args)
